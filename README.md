@@ -5,11 +5,19 @@ A collection of wallpapers for
 
 | Name                  | Preview                                           |
 |-----------------------|---------------------------------------------------|
+| 1131638.png           | ![1131638.png](./1131638.png)                     |
+| 1261770.png           | ![1261770.png](./1261770.png)                     |
+| 203540.png            | ![203540.png](./203540.png)                       |
+| 203553.png            | ![203553.png](./203553.png)                       |
 | 20.png                | ![20.png](./20.png)                               |
+| 2159155.png           | ![2159155.png](./2159155.png)                     |
+| 2629470.png           | ![2629470.png](./2629470.png)                     |
 | astronaut.png         | ![astronaut.png](./astronaut.png)                 |
 | aurore.png            | ![aurore.png](./aurore.png)                       |
 | barcode.png           | ![barcode.png](./barcode.png)                     |
 | black-and-white.png   | ![black-and-white.png](./black-and-white.png)     |
+| blurred-darker.png    | ![blurred-darker.png](./blurred-darker.png)       |
+| blurred.png           | ![blurred.png](./blurred.png)                     |
 | cat-leaves.png        | ![cat-leaves.png](./cat-leaves.png)               |
 | city.png              | ![city.png](./city.png)                           |
 | cloud.png             | ![cloud.png](./cloud.png)                         |
