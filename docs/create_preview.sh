@@ -11,12 +11,12 @@ echo "" >>"$WALLPAPERS_MD"
 printf "A collection of wallpapers for [Nixy](https://github.com/anotherhadi/nixy)." >>"$WALLPAPERS_MD"
 echo "" >>"$WALLPAPERS_MD"
 echo "" >>"$WALLPAPERS_MD"
-echo "| Name | Preview |" >>"$WALLPAPERS_MD"
-echo "| -- | -- |" >>"$WALLPAPERS_MD"
+echo "| Preview |" >>"$WALLPAPERS_MD"
+echo "| -- |" >>"$WALLPAPERS_MD"
 
 for file in "$WALLPAPERS_FOLDER"/*.png; do
   filename=$(basename "$file")
-  echo "| $filename | ![$filename](./$filename) |" >>"$WALLPAPERS_MD"
+  echo "| ![$filename](./$filename) $filename |" >>"$WALLPAPERS_MD"
 done
 
 # Format
