@@ -6,7 +6,6 @@ See the [desktop readme (3 columns)](../README.md)
 
 | Preview |
 | ------- |
-| ![111111.png](../wallpapers/111111.png) 111111.png |
 | ![1131638.png](../wallpapers/1131638.png) 1131638.png |
 | ![1261770.png](../wallpapers/1261770.png) 1261770.png |
 | ![20.png](../wallpapers/20.png) 20.png |
