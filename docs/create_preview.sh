@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Desktop view (3 column)
-WALLPAPERS_FOLDER="."
+WALLPAPERS_FOLDER="./wallpapers"
 WALLPAPERS_MD="./README.md"
 [[ -d "$WALLPAPERS_FOLDER" ]] || (echo "Wallpapers folder not found" && exit 1)
 
@@ -20,7 +20,7 @@ EOT
 i=0
 for file in "$WALLPAPERS_FOLDER"/*.png; do
   filename=$(basename "$file")
-  printf "| ![$filename](./$filename) $filename " >>"$WALLPAPERS_MD"
+  printf "| ![$filename](./wallpapers/$filename) $filename " >>"$WALLPAPERS_MD"
   i=$((i + 1))
   if [ "$i" -eq 3 ]; then
     echo "|" >>"$WALLPAPERS_MD"
@@ -33,7 +33,7 @@ fi
 
 # Mobile view (1 column)
 
-WALLPAPERS_FOLDER="."
+WALLPAPERS_FOLDER="./wallpapers"
 WALLPAPERS_MD="./docs/MOBILE-VIEW.md"
 [[ -d "$WALLPAPERS_FOLDER" ]] || (echo "Wallpapers folder not found" && exit 1)
 
@@ -50,5 +50,5 @@ EOT
 
 for file in "$WALLPAPERS_FOLDER"/*.png; do
   filename=$(basename "$file")
-  echo "| ![$filename](./$filename) $filename |" >>"$WALLPAPERS_MD"
+  echo "| ![$filename](../wallpapers/$filename) $filename |" >>"$WALLPAPERS_MD"
 done
