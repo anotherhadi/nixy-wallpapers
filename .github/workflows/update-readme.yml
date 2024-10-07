@@ -12,4 +12,6 @@ jobs:
       - name: Check out the repository to the runner
         uses: actions/checkout@v4  
       - name: Run a script
-        run: ./docs/create_preview.sh
+        run: |
+          chmod +x ./docs/create_preview.sh
+          ./docs/create_preview.sh
