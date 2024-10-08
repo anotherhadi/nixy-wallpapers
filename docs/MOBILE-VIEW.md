@@ -3,7 +3,6 @@
 A collection of wallpapers for [Nixy](https://github.com/anotherhadi/nixy).
 See the [desktop readme (3 columns)](../README.md)
 
-
 | Preview |
 | ------- |
 | ![1131638.png](../wallpapers/1131638.png) 1131638.png |
