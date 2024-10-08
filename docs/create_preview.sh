@@ -11,7 +11,6 @@ cat <<EOT >"$WALLPAPERS_MD"
 A collection of wallpapers for [Nixy](https://github.com/anotherhadi/nixy).
 See the [mobile readme (1 columns)](./docs/MOBILE-VIEW.md)
 
-
 | Preview |    |    |
 | ------- | -- | -- |
 EOT
@@ -42,7 +41,6 @@ cat <<EOT >"$WALLPAPERS_MD"
 
 A collection of wallpapers for [Nixy](https://github.com/anotherhadi/nixy).
 See the [desktop readme (3 columns)](../README.md)
-
 
 | Preview |
 | ------- |
