@@ -3,7 +3,6 @@
 A collection of wallpapers for [Nixy](https://github.com/anotherhadi/nixy).
 See the [mobile readme (1 columns)](./docs/MOBILE-VIEW.md)
 
-
 | Preview |    |    |
 | ------- | -- | -- |
 | ![1131638.png](./wallpapers/1131638.png) 1131638.png | ![1261770.png](./wallpapers/1261770.png) 1261770.png | ![20.png](./wallpapers/20.png) 20.png |
