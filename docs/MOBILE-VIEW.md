@@ -17,6 +17,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![barcode.png](../wallpapers/barcode.png) barcode.png |
 | ![black-and-white.png](../wallpapers/black-and-white.png) black-and-white.png |
 | ![black-oil-2.png](../wallpapers/black-oil-2.png) black-oil-2.png |
+| ![black-oil-3.png](../wallpapers/black-oil-3.png) black-oil-3.png |
 | ![black-oil.png](../wallpapers/black-oil.png) black-oil.png |
 | ![blurred-darker.png](../wallpapers/blurred-darker.png) blurred-darker.png |
 | ![blurred.png](../wallpapers/blurred.png) blurred.png |
