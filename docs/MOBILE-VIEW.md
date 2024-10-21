@@ -36,6 +36,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![dark_cloud.png](../wallpapers/dark_cloud.png) dark_cloud.png |
 | ![degirled.png](../wallpapers/degirled.png) degirled.png |
 | ![diner-lonely-road.png](../wallpapers/diner-lonely-road.png) diner-lonely-road.png |
+| ![fog-forest.png](../wallpapers/fog-forest.png) fog-forest.png |
 | ![fuji-dark.png](../wallpapers/fuji-dark.png) fuji-dark.png |
 | ![fuji-light.png](../wallpapers/fuji-light.png) fuji-light.png |
 | ![galaxy.png](../wallpapers/galaxy.png) galaxy.png |
@@ -58,6 +59,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![sea2.png](../wallpapers/sea2.png) sea2.png |
 | ![space.png](../wallpapers/space.png) space.png |
 | ![space2.png](../wallpapers/space2.png) space2.png |
+| ![staircase.png](../wallpapers/staircase.png) staircase.png |
 | ![street.png](../wallpapers/street.png) street.png |
 | ![sun.png](../wallpapers/sun.png) sun.png |
 | ![the-road-black.png](../wallpapers/the-road-black.png) the-road-black.png |
