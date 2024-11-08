@@ -5,15 +5,21 @@ See the [desktop readme (3 columns)](../README.md)
 
 | Preview |
 | ------- |
+| ![1.png](../wallpapers/1.png) 1.png |
 | ![1131638.png](../wallpapers/1131638.png) 1131638.png |
 | ![1261770.png](../wallpapers/1261770.png) 1261770.png |
+| ![2.png](../wallpapers/2.png) 2.png |
 | ![20.png](../wallpapers/20.png) 20.png |
 | ![203540.png](../wallpapers/203540.png) 203540.png |
 | ![203553.png](../wallpapers/203553.png) 203553.png |
 | ![2159155.png](../wallpapers/2159155.png) 2159155.png |
 | ![2629470.png](../wallpapers/2629470.png) 2629470.png |
+| ![3.png](../wallpapers/3.png) 3.png |
+| ![4.png](../wallpapers/4.png) 4.png |
+| ![a.png](../wallpapers/a.png) a.png |
 | ![astronaut.png](../wallpapers/astronaut.png) astronaut.png |
 | ![aurore.png](../wallpapers/aurore.png) aurore.png |
+| ![b.png](../wallpapers/b.png) b.png |
 | ![barcode.png](../wallpapers/barcode.png) barcode.png |
 | ![black-and-white.png](../wallpapers/black-and-white.png) black-and-white.png |
 | ![black-oil-2.png](../wallpapers/black-oil-2.png) black-oil-2.png |
@@ -21,6 +27,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![black-oil.png](../wallpapers/black-oil.png) black-oil.png |
 | ![blurred-darker.png](../wallpapers/blurred-darker.png) blurred-darker.png |
 | ![blurred.png](../wallpapers/blurred.png) blurred.png |
+| ![c.png](../wallpapers/c.png) c.png |
 | ![cat-leaves.png](../wallpapers/cat-leaves.png) cat-leaves.png |
 | ![city.png](../wallpapers/city.png) city.png |
 | ![cloud.png](../wallpapers/cloud.png) cloud.png |
@@ -36,10 +43,14 @@ See the [desktop readme (3 columns)](../README.md)
 | ![dark_cloud.png](../wallpapers/dark_cloud.png) dark_cloud.png |
 | ![degirled.png](../wallpapers/degirled.png) degirled.png |
 | ![diner-lonely-road.png](../wallpapers/diner-lonely-road.png) diner-lonely-road.png |
+| ![e.png](../wallpapers/e.png) e.png |
+| ![f.png](../wallpapers/f.png) f.png |
 | ![fog-forest.png](../wallpapers/fog-forest.png) fog-forest.png |
 | ![fuji-dark.png](../wallpapers/fuji-dark.png) fuji-dark.png |
 | ![fuji-light.png](../wallpapers/fuji-light.png) fuji-light.png |
+| ![g.png](../wallpapers/g.png) g.png |
 | ![galaxy.png](../wallpapers/galaxy.png) galaxy.png |
+| ![h.png](../wallpapers/h.png) h.png |
 | ![horizon-2.png](../wallpapers/horizon-2.png) horizon-2.png |
 | ![house-cloud.png](../wallpapers/house-cloud.png) house-cloud.png |
 | ![key.png](../wallpapers/key.png) key.png |
