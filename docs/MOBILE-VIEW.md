@@ -16,6 +16,8 @@ See the [desktop readme (3 columns)](../README.md)
 | ![2629470.png](../wallpapers/2629470.png) 2629470.png |
 | ![3.png](../wallpapers/3.png) 3.png |
 | ![4.png](../wallpapers/4.png) 4.png |
+| ![6959400.png](../wallpapers/6959400.png) 6959400.png |
+| ![832209.png](../wallpapers/832209.png) 832209.png |
 | ![a.png](../wallpapers/a.png) a.png |
 | ![astronaut.png](../wallpapers/astronaut.png) astronaut.png |
 | ![aurore.png](../wallpapers/aurore.png) aurore.png |
