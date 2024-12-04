@@ -19,11 +19,13 @@ See the [desktop readme (3 columns)](../README.md)
 | ![6959400.png](../wallpapers/6959400.png) 6959400.png |
 | ![832209.png](../wallpapers/832209.png) 832209.png |
 | ![a.png](../wallpapers/a.png) a.png |
+| ![a_lake_surrounded_by_mountains.png](../wallpapers/a_lake_surrounded_by_mountains.png) a_lake_surrounded_by_mountains.png |
 | ![astronaut.png](../wallpapers/astronaut.png) astronaut.png |
 | ![aurore.png](../wallpapers/aurore.png) aurore.png |
 | ![b.png](../wallpapers/b.png) b.png |
 | ![barcode.png](../wallpapers/barcode.png) barcode.png |
 | ![black-and-white.png](../wallpapers/black-and-white.png) black-and-white.png |
+| ![black-mountains-light.png](../wallpapers/black-mountains-light.png) black-mountains-light.png |
 | ![black-oil-2.png](../wallpapers/black-oil-2.png) black-oil-2.png |
 | ![black-oil-3.png](../wallpapers/black-oil-3.png) black-oil-3.png |
 | ![black-oil.png](../wallpapers/black-oil.png) black-oil.png |
@@ -55,6 +57,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![h.png](../wallpapers/h.png) h.png |
 | ![horizon-2.png](../wallpapers/horizon-2.png) horizon-2.png |
 | ![house-cloud.png](../wallpapers/house-cloud.png) house-cloud.png |
+| ![is-this-the-sun.png](../wallpapers/is-this-the-sun.png) is-this-the-sun.png |
 | ![key.png](../wallpapers/key.png) key.png |
 | ![lavender-cat.png](../wallpapers/lavender-cat.png) lavender-cat.png |
 | ![lofi-computer.png](../wallpapers/lofi-computer.png) lofi-computer.png |
@@ -64,10 +67,14 @@ See the [desktop readme (3 columns)](../README.md)
 | ![mountains.png](../wallpapers/mountains.png) mountains.png |
 | ![nasa-japan-dark.png](../wallpapers/nasa-japan-dark.png) nasa-japan-dark.png |
 | ![nix.png](../wallpapers/nix.png) nix.png |
+| ![openbox.png](../wallpapers/openbox.png) openbox.png |
+| ![p2oowm.png](../wallpapers/p2oowm.png) p2oowm.png |
 | ![pixel-galaxy.png](../wallpapers/pixel-galaxy.png) pixel-galaxy.png |
 | ![problems.png](../wallpapers/problems.png) problems.png |
 | ![rains-dark.png](../wallpapers/rains-dark.png) rains-dark.png |
 | ![rocket-launch.png](../wallpapers/rocket-launch.png) rocket-launch.png |
+| ![rose-sky.png](../wallpapers/rose-sky.png) rose-sky.png |
+| ![rr9kyw.png](../wallpapers/rr9kyw.png) rr9kyw.png |
 | ![sea.png](../wallpapers/sea.png) sea.png |
 | ![sea2.png](../wallpapers/sea2.png) sea2.png |
 | ![space.png](../wallpapers/space.png) space.png |
@@ -80,3 +87,4 @@ See the [desktop readme (3 columns)](../README.md)
 | ![train.png](../wallpapers/train.png) train.png |
 | ![windows.png](../wallpapers/windows.png) windows.png |
 | ![wp.png](../wallpapers/wp.png) wp.png |
+| ![x6kv.png](../wallpapers/x6kv.png) x6kv.png |
