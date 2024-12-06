@@ -85,6 +85,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![the-road-black.png](../wallpapers/the-road-black.png) the-road-black.png |
 | ![tokyo.png](../wallpapers/tokyo.png) tokyo.png |
 | ![train.png](../wallpapers/train.png) train.png |
+| ![v.png](../wallpapers/v.png) v.png |
 | ![windows.png](../wallpapers/windows.png) windows.png |
 | ![wp.png](../wallpapers/wp.png) wp.png |
 | ![x6kv.png](../wallpapers/x6kv.png) x6kv.png |
