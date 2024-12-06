@@ -32,4 +32,4 @@ See the [mobile readme (1 columns)](./docs/MOBILE-VIEW.md)
 | ![space.png](./wallpapers/space.png) space.png | ![space2.png](./wallpapers/space2.png) space2.png | ![staircase.png](./wallpapers/staircase.png) staircase.png |
 | ![street.png](./wallpapers/street.png) street.png | ![sun.png](./wallpapers/sun.png) sun.png | ![the-road-black.png](./wallpapers/the-road-black.png) the-road-black.png |
 | ![tokyo.png](./wallpapers/tokyo.png) tokyo.png | ![train.png](./wallpapers/train.png) train.png | ![windows.png](./wallpapers/windows.png) windows.png |
-| ![wp.png](./wallpapers/wp.png) wp.png | ![x6kv.png](./wallpapers/x6kv.png) x6kv.png |
+| ![wp.png](./wallpapers/wp.png) wp.png | ![x6kv.png](./wallpapers/x6kv.png) x6kv.png | ![zywgxy.png](./wallpapers/zywgxy.png) zywgxy.png |

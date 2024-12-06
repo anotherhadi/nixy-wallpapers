@@ -88,3 +88,4 @@ See the [desktop readme (3 columns)](../README.md)
 | ![windows.png](../wallpapers/windows.png) windows.png |
 | ![wp.png](../wallpapers/wp.png) wp.png |
 | ![x6kv.png](../wallpapers/x6kv.png) x6kv.png |
+| ![zywgxy.png](../wallpapers/zywgxy.png) zywgxy.png |
