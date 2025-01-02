@@ -5,6 +5,7 @@ See the [desktop readme (3 columns)](../README.md)
 
 | Preview |
 | ------- |
+| ![02afae3ydt8e1.png](../wallpapers/02afae3ydt8e1.png) 02afae3ydt8e1.png |
 | ![1.png](../wallpapers/1.png) 1.png |
 | ![1131638.png](../wallpapers/1131638.png) 1131638.png |
 | ![1261770.png](../wallpapers/1261770.png) 1261770.png |
@@ -17,7 +18,9 @@ See the [desktop readme (3 columns)](../README.md)
 | ![3.png](../wallpapers/3.png) 3.png |
 | ![4.png](../wallpapers/4.png) 4.png |
 | ![6959400.png](../wallpapers/6959400.png) 6959400.png |
+| ![7pcmbp8pcg9e1.png](../wallpapers/7pcmbp8pcg9e1.png) 7pcmbp8pcg9e1.png |
 | ![832209.png](../wallpapers/832209.png) 832209.png |
+| ![8c7ck5ffuc4e1.png](../wallpapers/8c7ck5ffuc4e1.png) 8c7ck5ffuc4e1.png |
 | ![a.png](../wallpapers/a.png) a.png |
 | ![a_lake_surrounded_by_mountains.png](../wallpapers/a_lake_surrounded_by_mountains.png) a_lake_surrounded_by_mountains.png |
 | ![astronaut.png](../wallpapers/astronaut.png) astronaut.png |
@@ -57,6 +60,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![h.png](../wallpapers/h.png) h.png |
 | ![horizon-2.png](../wallpapers/horizon-2.png) horizon-2.png |
 | ![house-cloud.png](../wallpapers/house-cloud.png) house-cloud.png |
+| ![icpvwik4l05e1.png](../wallpapers/icpvwik4l05e1.png) icpvwik4l05e1.png |
 | ![is-this-the-sun.png](../wallpapers/is-this-the-sun.png) is-this-the-sun.png |
 | ![key.png](../wallpapers/key.png) key.png |
 | ![lavender-cat.png](../wallpapers/lavender-cat.png) lavender-cat.png |
