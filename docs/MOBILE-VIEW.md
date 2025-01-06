@@ -21,6 +21,11 @@ See the [desktop readme (3 columns)](../README.md)
 | ![7pcmbp8pcg9e1.png](../wallpapers/7pcmbp8pcg9e1.png) 7pcmbp8pcg9e1.png |
 | ![832209.png](../wallpapers/832209.png) 832209.png |
 | ![8c7ck5ffuc4e1.png](../wallpapers/8c7ck5ffuc4e1.png) 8c7ck5ffuc4e1.png |
+| ![Aurora_Mac.png](../wallpapers/Aurora_Mac.png) Aurora_Mac.png |
+| ![Aurora_wStars.png](../wallpapers/Aurora_wStars.png) Aurora_wStars.png |
+| ![Loop.png](../wallpapers/Loop.png) Loop.png |
+| ![Mosaic_Black_Mac.png](../wallpapers/Mosaic_Black_Mac.png) Mosaic_Black_Mac.png |
+| ![Starfield.png](../wallpapers/Starfield.png) Starfield.png |
 | ![a.png](../wallpapers/a.png) a.png |
 | ![a_lake_surrounded_by_mountains.png](../wallpapers/a_lake_surrounded_by_mountains.png) a_lake_surrounded_by_mountains.png |
 | ![astronaut.png](../wallpapers/astronaut.png) astronaut.png |
