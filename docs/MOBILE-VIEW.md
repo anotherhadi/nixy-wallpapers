@@ -96,6 +96,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![train.png](../wallpapers/train.png) train.png |
 | ![v.png](../wallpapers/v.png) v.png |
 | ![vanilla.png](../wallpapers/vanilla.png) vanilla.png |
+| ![wave-dark.png](../wallpapers/wave-dark.png) wave-dark.png |
 | ![windows.png](../wallpapers/windows.png) windows.png |
 | ![wp.png](../wallpapers/wp.png) wp.png |
 | ![x6kv.png](../wallpapers/x6kv.png) x6kv.png |
