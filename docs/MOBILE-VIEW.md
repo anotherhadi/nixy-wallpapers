@@ -21,6 +21,9 @@ See the [desktop readme (3 columns)](../README.md)
 | ![7pcmbp8pcg9e1.png](../wallpapers/7pcmbp8pcg9e1.png) 7pcmbp8pcg9e1.png |
 | ![832209.png](../wallpapers/832209.png) 832209.png |
 | ![8c7ck5ffuc4e1.png](../wallpapers/8c7ck5ffuc4e1.png) 8c7ck5ffuc4e1.png |
+| ![Grey-mountains.png](../wallpapers/Grey-mountains.png) Grey-mountains.png |
+| ![Rocks-misty.png](../wallpapers/Rocks-misty.png) Rocks-misty.png |
+| ![Tokyo-skyscraper.png](../wallpapers/Tokyo-skyscraper.png) Tokyo-skyscraper.png |
 | ![a-lake-surrounded-by-mountains.png](../wallpapers/a-lake-surrounded-by-mountains.png) a-lake-surrounded-by-mountains.png |
 | ![a.png](../wallpapers/a.png) a.png |
 | ![astronaut.png](../wallpapers/astronaut.png) astronaut.png |
