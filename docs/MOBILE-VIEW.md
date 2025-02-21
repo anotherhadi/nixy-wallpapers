@@ -34,6 +34,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![barcode.png](../wallpapers/barcode.png) barcode.png |
 | ![black-and-white.png](../wallpapers/black-and-white.png) black-and-white.png |
 | ![black-mountains-light.png](../wallpapers/black-mountains-light.png) black-mountains-light.png |
+| ![black-moutains.png](../wallpapers/black-moutains.png) black-moutains.png |
 | ![black-oil-2.png](../wallpapers/black-oil-2.png) black-oil-2.png |
 | ![black-oil-3.png](../wallpapers/black-oil-3.png) black-oil-3.png |
 | ![black-oil.png](../wallpapers/black-oil.png) black-oil.png |
@@ -80,6 +81,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![nix.png](../wallpapers/nix.png) nix.png |
 | ![openbox.png](../wallpapers/openbox.png) openbox.png |
 | ![p2oowm.png](../wallpapers/p2oowm.png) p2oowm.png |
+| ![pink-sky-mountains.png](../wallpapers/pink-sky-mountains.png) pink-sky-mountains.png |
 | ![pixel-galaxy.png](../wallpapers/pixel-galaxy.png) pixel-galaxy.png |
 | ![problems.png](../wallpapers/problems.png) problems.png |
 | ![rains-dark.png](../wallpapers/rains-dark.png) rains-dark.png |
