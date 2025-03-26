@@ -95,6 +95,7 @@ See the [desktop readme (3 columns)](../README.md)
 | ![staircase.png](../wallpapers/staircase.png) staircase.png |
 | ![starfield.png](../wallpapers/starfield.png) starfield.png |
 | ![street.png](../wallpapers/street.png) street.png |
+| ![studio.png](../wallpapers/studio.png) studio.png |
 | ![sun.png](../wallpapers/sun.png) sun.png |
 | ![the-road-black.png](../wallpapers/the-road-black.png) the-road-black.png |
 | ![tokyo.png](../wallpapers/tokyo.png) tokyo.png |

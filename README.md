@@ -35,7 +35,7 @@ See the [mobile readme (1 columns)](./docs/MOBILE-VIEW.md)
 | ![rose-sky.png](./wallpapers/rose-sky.png) rose-sky.png | ![rr9kyw.png](./wallpapers/rr9kyw.png) rr9kyw.png | ![sea.png](./wallpapers/sea.png) sea.png |
 | ![sea2.png](./wallpapers/sea2.png) sea2.png | ![space.png](./wallpapers/space.png) space.png | ![space2.png](./wallpapers/space2.png) space2.png |
 | ![staircase.png](./wallpapers/staircase.png) staircase.png | ![starfield.png](./wallpapers/starfield.png) starfield.png | ![street.png](./wallpapers/street.png) street.png |
-| ![sun.png](./wallpapers/sun.png) sun.png | ![the-road-black.png](./wallpapers/the-road-black.png) the-road-black.png | ![tokyo.png](./wallpapers/tokyo.png) tokyo.png |
-| ![train.png](./wallpapers/train.png) train.png | ![v.png](./wallpapers/v.png) v.png | ![vanilla.png](./wallpapers/vanilla.png) vanilla.png |
-| ![wave-dark.png](./wallpapers/wave-dark.png) wave-dark.png | ![windows.png](./wallpapers/windows.png) windows.png | ![wp.png](./wallpapers/wp.png) wp.png |
-| ![x6kv.png](./wallpapers/x6kv.png) x6kv.png | ![zywgxy.png](./wallpapers/zywgxy.png) zywgxy.png |
+| ![studio.png](./wallpapers/studio.png) studio.png | ![sun.png](./wallpapers/sun.png) sun.png | ![the-road-black.png](./wallpapers/the-road-black.png) the-road-black.png |
+| ![tokyo.png](./wallpapers/tokyo.png) tokyo.png | ![train.png](./wallpapers/train.png) train.png | ![v.png](./wallpapers/v.png) v.png |
+| ![vanilla.png](./wallpapers/vanilla.png) vanilla.png | ![wave-dark.png](./wallpapers/wave-dark.png) wave-dark.png | ![windows.png](./wallpapers/windows.png) windows.png |
+| ![wp.png](./wallpapers/wp.png) wp.png | ![x6kv.png](./wallpapers/x6kv.png) x6kv.png | ![zywgxy.png](./wallpapers/zywgxy.png) zywgxy.png |
